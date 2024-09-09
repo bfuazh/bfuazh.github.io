@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bfuazh.github.io/kYf/sitemap.kYf.gz
